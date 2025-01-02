@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root{
+    background-color: black;
+    color: white;
+    font-family: "Cousine", serif;
+    padding: 10px;
+    margin:10px;
+}
